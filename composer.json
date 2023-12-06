@@ -1,11 +1,19 @@
 {
-    "name": "ctberdon/flysystem-cached-extra",
+    "name": "gigabooksite/flysystem-cached-extra",
     "description": "Extra traits for Flysystem cached adapter",
     "license": "MIT",
     "authors": [
         {
             "name": "Naoki Sawada",
             "email": "hypweb@gmail.com"
+        },
+        {
+            "name": "Carmencito Berdon",
+            "email": "ctberdon@gmail.com"
+        },
+        {
+            "name": "Terence Jan Serencio",
+            "email": "terenceserencio@gmail.com"
         }
     ],
     "require": {
